@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comments for PortfolioWebsite	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=1531" rel="self" type="application/rss+xml" />
-	<link>https://https://lwazijakuja.github.io/LwaziJakuja/</link>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=2850" rel="self" type="application/rss+xml" />
+	<link>https://lwazijakuja.github.io/LwaziJakuja/</link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Nov 2016 00:44:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>
 		Comment on Nulla metus metus ullamcorper vel tincidunt by OceanWP		</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/#comment-3</link>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/#comment-3</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:44:33 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Comment on Quis ligula lacinia aliquet mauris ipsum by OceanWP		</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/#comment-2</link>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/#comment-2</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:44:27 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Comment on Luctus non massa fusce ac turpis quis by OceanWP		</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/#comment-4</link>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/#comment-4</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:44:13 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		Comment on Conubia nostra per inceptos himenaeos by OceanWP		</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/#comment-5</link>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/#comment-5</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:43:35 +0000</pubDate>

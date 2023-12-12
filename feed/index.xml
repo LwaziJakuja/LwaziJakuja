@@ -9,8 +9,8 @@
 
 <channel>
 	<title>PortfolioWebsite</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=1530" rel="self" type="application/rss+xml" />
-	<link>https://https://lwazijakuja.github.io/LwaziJakuja/</link>
+	<atom:link href="http://localhost/feed/?simply_static_page=2849" rel="self" type="application/rss+xml" />
+	<link>https://lwazijakuja.github.io/LwaziJakuja/</link>
 	<description></description>
 	<lastBuildDate>Tue, 25 Oct 2016 17:37:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://https://lwazijakuja.github.io/LwaziJakuja/wp-content/uploads/2023/12/cropped-portfolio-logo-32x32.png</url>
+	<url>https://lwazijakuja.github.io/LwaziJakuja/wp-content/uploads/2023/12/cropped-portfolio-logo-32x32.png</url>
 	<title>PortfolioWebsite</title>
-	<link>https://https://lwazijakuja.github.io/LwaziJakuja/</link>
+	<link>https://lwazijakuja.github.io/LwaziJakuja/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Conubia nostra per inceptos himenaeos</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/</link>
-					<comments>https://https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/#comments</comments>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/</link>
+					<comments>https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/#comments</comments>
 		
 		<dc:creator><![CDATA[Lwazi]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:37:53 +0000</pubDate>
@@ -47,15 +47,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lwazijakuja.github.io/LwaziJakuja/conubia-nostra-per-inceptos-himenaeos/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pellentesque nibh aenean quam in scelerisque</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/pellentesque-nibh-aenean-quam-in-scelerisque/</link>
-					<comments>https://https://lwazijakuja.github.io/LwaziJakuja/pellentesque-nibh-aenean-quam-in-scelerisque/#respond</comments>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/pellentesque-nibh-aenean-quam-in-scelerisque/</link>
+					<comments>https://lwazijakuja.github.io/LwaziJakuja/pellentesque-nibh-aenean-quam-in-scelerisque/#respond</comments>
 		
 		<dc:creator><![CDATA[Lwazi]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:34:50 +0000</pubDate>
@@ -72,15 +72,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://lwazijakuja.github.io/LwaziJakuja/pellentesque-nibh-aenean-quam-in-scelerisque/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lwazijakuja.github.io/LwaziJakuja/pellentesque-nibh-aenean-quam-in-scelerisque/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Luctus non massa fusce ac turpis quis</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/</link>
-					<comments>https://https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/#comments</comments>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/</link>
+					<comments>https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/#comments</comments>
 		
 		<dc:creator><![CDATA[Lwazi]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:34:08 +0000</pubDate>
@@ -97,15 +97,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lwazijakuja.github.io/LwaziJakuja/luctus-non-massa-fusce-ac-turpis-quis/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nulla metus metus ullamcorper vel tincidunt</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/</link>
-					<comments>https://https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/#comments</comments>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/</link>
+					<comments>https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/#comments</comments>
 		
 		<dc:creator><![CDATA[Lwazi]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:33:27 +0000</pubDate>
@@ -122,15 +122,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lwazijakuja.github.io/LwaziJakuja/nulla-metus-metus-ullamcorper-vel-tincidunt/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Quis ligula lacinia aliquet mauris ipsum</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/</link>
-					<comments>https://https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/#comments</comments>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/</link>
+					<comments>https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/#comments</comments>
 		
 		<dc:creator><![CDATA[Lwazi]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:30:58 +0000</pubDate>
@@ -147,15 +147,15 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lwazijakuja.github.io/LwaziJakuja/quis-ligula-lacinia-aliquet-mauris-ipsum/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cras metus sed aliquet risus a tortor</title>
-		<link>https://https://lwazijakuja.github.io/LwaziJakuja/cras-metus-sed-aliquet-risus-a-tortor/</link>
-					<comments>https://https://lwazijakuja.github.io/LwaziJakuja/cras-metus-sed-aliquet-risus-a-tortor/#respond</comments>
+		<link>https://lwazijakuja.github.io/LwaziJakuja/cras-metus-sed-aliquet-risus-a-tortor/</link>
+					<comments>https://lwazijakuja.github.io/LwaziJakuja/cras-metus-sed-aliquet-risus-a-tortor/#respond</comments>
 		
 		<dc:creator><![CDATA[Lwazi]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 17:03:13 +0000</pubDate>
@@ -172,7 +172,7 @@
 <p>Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://lwazijakuja.github.io/LwaziJakuja/cras-metus-sed-aliquet-risus-a-tortor/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lwazijakuja.github.io/LwaziJakuja/cras-metus-sed-aliquet-risus-a-tortor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

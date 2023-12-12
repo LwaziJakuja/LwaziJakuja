@@ -96,7 +96,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 </head>
 
 <body class="page-template-default page page-id-673 wp-custom-logo wp-embed-responsive oceanwp-theme dropdown-mobile has-transparent-header no-header-border default-breakpoint content-full-screen page-header-disabled pagination-center no-margins elementor-default elementor-kit-5 elementor-page elementor-page-673" itemscope="itemscope" itemtype="https://schema.org/WebPage">
-
+	<audio id="audioTg" src="welcomeToGame.mp3" autoplay></audio>
 	
 	
 	<div id="outer-wrap" class="site clr">
@@ -235,7 +235,24 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 
 </div>
 
-			
+
+<script>
+	const audio = new Audio("menuSelectv2.mp3")
+	const welcomeSong = new Audio('WelcomeToGame.mp3');
+	const Selected = new Audio('gameStartv3.mp3');
+
+	function playWelcomeSong(){
+		welcomeSong.play();
+	}
+
+	function playMenuSelect(){
+		audio.play();
+	}
+
+	function optionSelected(){
+		Selected.play();
+	}
+</script>
 			
 		
 		
@@ -297,7 +314,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.17.0 - 08-11-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
-<h2 class="elementor-heading-title elementor-size-default">All Projects</h2>		</div>
+<h2 class="elementor-heading-title elementor-size-default" >All Projects</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8e73c62 elementor-widget elementor-widget-spacer" data-id="8e73c62" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -312,7 +329,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 				</div>
 		<div class="elementor-element elementor-element-4cd680a e-con-full e-flex e-con e-parent" data-id="4cd680a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
 		<div class="elementor-element elementor-element-d9a6dcc e-con-full e-flex e-con e-child" data-id="d9a6dcc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-		<a class="elementor-element elementor-element-396e545 e-con-full e-flex e-con e-child" data-id="396e545" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="https://lwazijakuja.github.io/LwaziJakuja/elementor-927/">
+		<a class="elementor-element elementor-element-396e545 e-con-full e-flex e-con e-child" onmouseover="playMenuSelect()" onclick="optionSelected()" data-id="396e545" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="javascript:setTimeout(()=>{window.location = 'https://lwazijakuja.github.io/LwaziJakuja/elementor-927/' }, 500);">
 				<div class="elementor-element elementor-element-4335f1a elementor-widget elementor-widget-heading" data-id="4335f1a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Student Portal Application: <br> Flame Brand College</h2>		</div>
@@ -339,7 +356,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 					</div>
 				</div>
 				</a>
-		<a class="elementor-element elementor-element-468ad5b e-con-full e-flex e-con e-child" data-id="468ad5b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="https://lwazijakuja.github.io/LwaziJakuja/musicgame/">
+		<a class="elementor-element elementor-element-468ad5b e-con-full e-flex e-con e-child" onmouseover="playMenuSelect()" onclick="optionSelected()" data-id="468ad5b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="javascript:setTimeout(()=>{window.location = 'https://lwazijakuja.github.io/LwaziJakuja/musicgame/' }, 500);">
 				<div class="elementor-element elementor-element-1b34537 elementor-widget elementor-widget-heading" data-id="1b34537" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Music Game Application: Musso</h2>		</div>
@@ -374,9 +391,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Web Applications</h2>		</div>
 				</div>
-		<div class="elementor-element elementor-element-3decacc e-con-full e-flex e-con e-parent" data-id="3decacc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-3decacc e-con-full e-flex e-con e-parent" id="menu-tile" data-id="3decacc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
 		<div class="elementor-element elementor-element-7c0b4b5 e-con-full e-flex e-con e-child" data-id="7c0b4b5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-		<a class="elementor-element elementor-element-812912e e-con-full e-flex e-con e-child" data-id="812912e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" href="https://lwazijakuja.github.io/LwaziJakuja/elementor-907/">
+		<a class="elementor-element elementor-element-812912e e-con-full e-flex e-con e-child" onmouseover="playMenuSelect()" onclick="optionSelected()" data-id="812912e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" href="javascript:setTimeout(()=>{window.location = 'https://lwazijakuja.github.io/LwaziJakuja/elementor-907/' }, 500);">
 				<div class="elementor-element elementor-element-e670f1b elementor-widget elementor-widget-heading" data-id="e670f1b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">E-commerce Website: <br> Love Candy Store</h2>		</div>
@@ -413,13 +430,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-9231931 elementor-widget elementor-widget-heading" data-id="9231931" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-9231931 elementor-widget elementor-widget-heading" id="menu-tile" data-id="9231931" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Mobile Applications</h2>		</div>
 				</div>
 		<div class="elementor-element elementor-element-3ae346f e-con-full e-flex e-con e-parent" data-id="3ae346f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
 		<div class="elementor-element elementor-element-9477a04 e-con-full e-flex e-con e-child" data-id="9477a04" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
-		<a class="elementor-element elementor-element-5814a9e e-con-full e-flex e-con e-child" data-id="5814a9e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" href="https://lwazijakuja.github.io/LwaziJakuja/mymusic/">
+		<a class="elementor-element elementor-element-5814a9e e-con-full e-flex e-con e-child" onmouseover="playMenuSelect()" onclick="optionSelected()" data-id="5814a9e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" href="javascript:setTimeout(()=>{window.location = 'https://lwazijakuja.github.io/LwaziJakuja/mymusic/' }, 500);">
 				<div class="elementor-element elementor-element-dd7c602 elementor-widget elementor-widget-heading" data-id="dd7c602" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Android Music Player: <br> My Music</h2>		</div>
@@ -455,9 +472,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-127b4cd elementor-widget elementor-widget-heading" data-id="127b4cd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">We create places that
+			<h2 class="elementor-heading-title elementor-size-default">I create applications that
 <br>
-deserve to be called home
+push me to go further
 </h2>		</div>
 				</div>
 					</div>
